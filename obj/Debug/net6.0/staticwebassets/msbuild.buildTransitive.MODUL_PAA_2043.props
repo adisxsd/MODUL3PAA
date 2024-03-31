@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MODUL_PAA_2043.props" />
+</Project>
